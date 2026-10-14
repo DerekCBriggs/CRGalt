@@ -6,7 +6,7 @@ This fractions prototype explores student and classroom status and growth throug
 
 ## View the prototype
 
-Once GitHub Pages is enabled: https://DerekCBriggs.github.io/CRG/
+https://DerekCBriggs.github.io/CRGalt/
 
 To run offline, download this repository as a ZIP, extract it, and open `index.html` in a browser. No installation or build step is required.
 
